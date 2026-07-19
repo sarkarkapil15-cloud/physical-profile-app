@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Physical_Profile",
+    "slug": "physical-profile-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#EEF3F5"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.kapil.physicalprofile",
+      "adaptiveIcon": {
+        "backgroundColor": "#EEF3F5"
+      }
+    },
+    "plugins": []
+  }
+}
